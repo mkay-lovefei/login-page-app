@@ -1,0 +1,22 @@
+
+.the-footer{
+    background-color: whitesmoke;
+    padding: 45px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-button{
+    background-color: transparent;
+    color: darkblue;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 5px 10px;
+}
+
+.footer-separator{
+    color: silver;
+    margin: 0 5px;
+}

@@ -1,7 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+//import logo from './logo.svg';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-function App() {
+
+/*function App() {
   return (
     <div className="App">
       <header className="App-header">
@@ -20,6 +21,20 @@ function App() {
       </header>
     </div>
   );
+}
+
+export default App; */
+
+import Header from './Header';
+import Footer from "./Footer";
+
+function App() {
+    return (
+        <div className={"App"}>
+            <Header />
+            <Footer />
+        </div>
+    );
 }
 
 export default App;

@@ -1,0 +1,14 @@
+
+.the-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: whitesmoke;
+    color: darkblue;
+    padding: 45px 20px;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: left;
+}
+
