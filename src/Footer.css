@@ -1,10 +1,14 @@
 
 .the-footer{
     background-color: whitesmoke;
-    padding: 45px 20px;
+    padding: 30px 20px;
     display: flex;
     justify-content: center;
     align-items: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
 }
 
 .footer-button{
@@ -12,11 +16,12 @@
     color: darkblue;
     border: none;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 18px;
     padding: 5px 10px;
+    margin-right: 40px;
 }
 
 .footer-separator{
     color: silver;
-    margin: 0 5px;
+    margin: 0 40px;
 }

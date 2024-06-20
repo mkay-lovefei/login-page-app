@@ -1,0 +1,25 @@
+
+.App{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+
+.content-section{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.content-section h2{
+    margin-bottom: 10px;
+}
+
+.content-section p{
+    margin: 0;
+}
