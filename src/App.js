@@ -1,18 +1,16 @@
 
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Header from './Components/Header/Header.tsx';
-import Footer from './Components/Footer/Footer.tsx';
 import './App.css'
-import Content from "./Components/Content/Content.tsx";
-import Title from "./Components/Title/Title.tsx";
+import LoginPageContent from './Pages/LoginPage/LoginPageContent.js';
+import PageTemplate from "./Pages/PageTemplate.js";
 
 function App() {
     return (
         <div className={"App"}>
-            <Title text={"Please enter your User ID"}/>
-            <Header />
-            <Content />
-            <Footer />
+            <PageTemplate
+                title={"Please enter your User ID"}
+                children={<LoginPageContent />}
+            />
         </div>
     );
 }

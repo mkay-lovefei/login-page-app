@@ -1,0 +1,17 @@
+
+.subheading{
+    font-weight: bold;
+    color: midnightblue;
+    font-size: 20px;
+    margin-left: 70px;
+}
+
+.secondary-text{
+    background-color: white;
+    font-size: 18px;
+    margin-left: 70px;
+}
+
+.custom-paragraph{
+    line-height: 2;
+}
