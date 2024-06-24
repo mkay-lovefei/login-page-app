@@ -2,9 +2,9 @@ import './Button.css'
 
 const Button = ({buttonName}) => {
     return (
-        <div className={"button"}>
+        <button className={"button"}>
             {buttonName}
-        </div>
+        </button>
 
     );
 }
