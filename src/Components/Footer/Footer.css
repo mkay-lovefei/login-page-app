@@ -11,17 +11,10 @@
     width: 100%;
 }
 
-.footer-button{
-    background-color: transparent;
-    color: darkblue;
-    border: none;
-    cursor: pointer;
-    font-size: 18px;
-    padding: 5px 10px;
-    margin-right: 40px;
-}
-
 .footer-separator{
     color: silver;
-    margin: 0 40px;
+}
+
+.sep-one{
+    color: silver;
 }

@@ -1,5 +1,5 @@
 import Header from "../Components/Header/Header.tsx";
-import Footer from "../Components/Footer/Footer.tsx";
+import Footer from "../Components/Footer/Footer.js";
 import Title from "../Components/Title/Title.tsx";
 
 

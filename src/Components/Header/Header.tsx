@@ -3,7 +3,7 @@ import './Header.css';
 const Header = () => {
     return (
         <header className={"the-header"}>
-            TSB
+            <h1 className={"logo"}>TSB</h1>
         </header>
 
     );

@@ -12,3 +12,13 @@
     margin-left: 70px;
 }
 
+.text-button{
+    position: absolute;
+    color: darkblue;
+    margin-left: 155px;
+    border: none;
+    background-color: transparent;
+    top: 630px;
+    font-size: 17.5px;
+}
+

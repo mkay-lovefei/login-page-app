@@ -1,0 +1,15 @@
+
+.button{
+    margin-left: 70px;
+    position: absolute;
+    background-color: darkblue;
+    color: white;
+    width: 416px;
+    height: 52px;
+    border-radius: 24px;
+    font-size: 18px;
+    border: none;
+    margin-top: 245px;
+    text-align: center;
+    line-height: 48px;
+}
